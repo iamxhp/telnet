@@ -1,0 +1,1 @@
+telnet登录过程，我是根据mirai源码的/mirai/mirai/bot/scanner.c里的telnet登录方式修改的，采用多线程方式扫描，速度和mirai差不多
